@@ -6,12 +6,12 @@ rbac_enabled = true
 
 topics = [
   {
-    name       = "test_topic_1"
+    name       = "test_topic_II"
     partitions = 4
     config = {
       "delete.retention.ms" = "20000000"
     }
-    producer = "CC-WEBINAR"
-    consumer = "CC-WEBINAR"
+    producer = "TerraForm_II"
+    consumer = "TerraForm_II"
   }
 ]
