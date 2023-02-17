@@ -2,7 +2,7 @@ environment = "env-2rrzpq"
 
 cluster = "lkc-3rdkzm"
 
-rbac_enabled = true
+rbac_enabled = false
 
 topics = [
   {
@@ -11,8 +11,6 @@ topics = [
     config = {
       "delete.retention.ms" = "20000000"
     }
-    producer = "TerraForm_II"
-    consumer = "TerraForm_II"
   }
 ]
 
