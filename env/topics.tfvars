@@ -15,3 +15,8 @@ topics = [
     consumer = "TerraForm_II"
   }
 ]
+
+service_account = {
+	name = "TerraForm_II"
+	role = "CloudClusterAdmin"
+}
