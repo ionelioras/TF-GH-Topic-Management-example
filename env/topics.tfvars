@@ -1,6 +1,6 @@
-environment = "env-q26337"
+environment = "env-2rrzpq"
 
-cluster = "lkc-oqzdj9"
+cluster = "lkc-3rdkzm"
 
 rbac_enabled = true
 
@@ -15,8 +15,3 @@ topics = [
     consumer = "CC-WEBINAR"
   }
 ]
-
-service_account = {
-  name = "CC-WEBINAR"
-  role = "CloudClusterAdmin"
-}
