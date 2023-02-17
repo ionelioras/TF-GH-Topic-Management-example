@@ -6,7 +6,7 @@ rbac_enabled = false
 
 topics = [
   {
-    name       = "test_topic_II"
+    name       = "test_topic"
     partitions = 4
     config = {
       "delete.retention.ms" = "20000000"
